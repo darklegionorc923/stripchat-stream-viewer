@@ -51,7 +51,9 @@ viewing on all versions of Windows.
     stripchat premium    │ stripchat tokens        │ stripchat mobile
     ─────────────────────────────────────────────────────────────────
 
+
 Supported sites
+
 | Site name     | Abbreviation | Aliases                     | Quirks                 | Selectable resolution |
 |---------------|--------------|-----------------------------|------------------------|-----------------------|
 | Bongacams     | `BC`         |                             |                        | Yes                   |
@@ -70,7 +72,6 @@ Supported sites
 | StripChat VR  | `SCVR`       |                             | for VR videos          | No                    |
 | XLoveCam      | `XLC`        |                             |                        | No                    |
 
-Currently not supported:
 
 
 ╔═══════════════════════════════════════════════════════════════════════════╗
