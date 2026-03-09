@@ -51,6 +51,27 @@ viewing on all versions of Windows.
     stripchat premium    │ stripchat tokens        │ stripchat mobile
     ─────────────────────────────────────────────────────────────────
 
+# Supported sites
+
+| Site name            | Abbreviation | Aliases                              | Quirks                              | Selectable resolution |
+|----------------------|--------------|--------------------------------------|-------------------------------------|----------------------|
+| Bongacams            | BC           |                                      |                                     | Yes                  |
+| Cam4                 | C4           |                                      |                                     | Yes                  |
+| Cams.com             | CC           |                                      | Currently only 360p                 | Yes                  |
+| CamSoda              | CS           |                                      |                                     | Yes                  |
+| Chaturbate           | CB           |                                      |                                     | Yes                  |
+| DreamCam             | DC           |                                      |                                     | No                   |
+| DreamCam VR          | DCVR         |                                      | For VR videos                       | No                   |
+| FanslyLive           | FL           |                                      |                                     | Yes                  |
+| Flirt4Free           | F4F          |                                      |                                     | Yes                  |
+| MyFreeCams           | MFC          |                                      |                                     | Yes                  |
+| SexChat.hu           | SCHU         | use the id as username               |                                     | No                   |
+| StreaMate            | SM           | PornHubLive, PepperCams,...          |                                     | Yes                  |
+| StripChat            | SC           | XHamsterLive,...                     | must add crypto keys                | Yes                  |
+| StripChat VR         | SCVR         |                                      | For VR videos                       | No                   |
+| XLoveCam             | XLC          |                                      |                                     | No                   |
+
+
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                 ⚠ IMPORTANT DOWNLOAD WARNING                              ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
